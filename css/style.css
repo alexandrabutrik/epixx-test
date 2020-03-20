@@ -1,3 +1,7 @@
 * {
 	box-sizing: border
 }
+
+header {
+	display: block;
+}
